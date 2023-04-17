@@ -1,0 +1,16 @@
+{
+    "name": "app/php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrei Agbisit",
+            "email": "agbisit.andreijoaqhimali@auf.edu.ph"
+        }
+    ],
+    "require": {}
+}
